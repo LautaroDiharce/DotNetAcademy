@@ -1,0 +1,13 @@
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.exe
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.deps.json
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.runtimeconfig.json
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.runtimeconfig.dev.json
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.dll
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\bin\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.pdb
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.AssemblyInfo.cs
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.dll
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.pdb
+C:\Users\lauta\Desktop\DotNet\ConsoleAppDotNetClase1\ConsoleAppDotNetClase1\obj\Debug\netcoreapp3.1\ConsoleAppDotNetClase1.genruntimeconfig.cache
