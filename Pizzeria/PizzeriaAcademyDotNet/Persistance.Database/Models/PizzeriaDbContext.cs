@@ -40,6 +40,7 @@ namespace Persistance.Database.Models
             new TamañoConfig(modelBuilder.Entity<Tamaño>());
             new VariedadConfig(modelBuilder.Entity<Variedad>());
             new TipoPizzaConfig(modelBuilder.Entity<TipoPizza>());
+            new IngredienteConfig(modelBuilder.Entity<Ingrediente>());
 
             base.OnModelCreating(modelBuilder);
         }
