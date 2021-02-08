@@ -1,0 +1,12 @@
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.csprojAssemblyReference.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\bin\Debug\netcoreapp3.1\Persistance.Database.deps.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\bin\Debug\netcoreapp3.1\Persistance.Database.runtimeconfig.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\bin\Debug\netcoreapp3.1\Persistance.Database.runtimeconfig.dev.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\bin\Debug\netcoreapp3.1\Persistance.Database.dll
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\bin\Debug\netcoreapp3.1\Persistance.Database.pdb
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.dll
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.pdb
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\Persistance.Database\obj\Debug\netcoreapp3.1\Persistance.Database.genruntimeconfig.cache

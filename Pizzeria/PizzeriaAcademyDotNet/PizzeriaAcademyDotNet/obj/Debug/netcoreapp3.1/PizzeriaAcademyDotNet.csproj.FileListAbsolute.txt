@@ -1,0 +1,13 @@
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.exe
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.deps.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.runtimeconfig.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.runtimeconfig.dev.json
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.dll
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\bin\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.pdb
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.csprojAssemblyReference.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.dll
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.pdb
+C:\Users\lauta\OneDrive\Documents\GitHub\DotNetAcademy\Pizzeria\PizzeriaAcademyDotNet\PizzeriaAcademyDotNet\obj\Debug\netcoreapp3.1\PizzeriaAcademyDotNet.genruntimeconfig.cache
