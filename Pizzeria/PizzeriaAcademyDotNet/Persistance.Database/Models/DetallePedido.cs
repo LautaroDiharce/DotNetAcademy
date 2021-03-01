@@ -4,11 +4,16 @@ using System.Text;
 
 namespace Persistance.Database.Models
 {
-    class DetallePedido
+    public class DetallePedido
     {
         public int id { get; set; }
+
         public Pizza pizza { get; set; }
-        public int montoUnitario { get; set; }
+        public double subtotal { get; set; }
+        public Pedido pedido { get; set; }
+        public string tipo { get; set; }
+        public int cantidad { get; set; }
+        public int tamaño { get; set; }
 
     }
 }

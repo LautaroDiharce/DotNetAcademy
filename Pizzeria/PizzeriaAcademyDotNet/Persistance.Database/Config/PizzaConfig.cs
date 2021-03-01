@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Persistance.Database.Config
 {
-    class PizzaConfig
+    public class PizzaConfig
     {
         private EntityTypeBuilder<Pizza> entityTypeBuilder;
 

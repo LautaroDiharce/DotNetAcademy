@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Persistance.Database.Config
 {
-    class PedidoConfig
+    public class PedidoConfig
     {
         public PedidoConfig(EntityTypeBuilder<Pedido> entityBuilder) {
             entityBuilder.HasKey(x => x.id);

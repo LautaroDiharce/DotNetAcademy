@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Persistance.Database.Config
 {
-    class FacturaConfig
+    public class FacturaConfig
     {
         private EntityTypeBuilder<Factura> entityTypeBuilder;
 

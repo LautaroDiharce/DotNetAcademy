@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Persistance.Database.Config
 {
-    class DetallePEdidoConfig
+    public class DetallePEdidoConfig
     {
         public DetallePEdidoConfig(EntityTypeBuilder<DetallePedido> entityTypeBuilder)
         {

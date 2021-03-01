@@ -4,9 +4,10 @@ using System.Text;
 
 namespace Persistance.Database.Models
 {
-    class Ingrediente
+    public class Ingrediente
     {
         public int id { get; set; }
-        public string descipcion { get; set; }
+        public string nombre { get; set; }
+        public List<Pizza> pizzas { get; set; }
     }
 }

@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Persistance.Database\Persistance.Database.csproj" />
+  </ItemGroup>
+
 </Project>
