@@ -23,9 +23,10 @@ namespace Services
                         }
                         else
                         {
-                            DetallePedido det = new DetallePedido();
-                            
-                            db.Detalle.Add(detalle);
+                        db.Entry(detalle.pizza).State = EntityState.Unchanged;
+                        db.Entry(detalle.pedido).State = EntityState.Unchanged;
+
+                        db.Detalle.Add(detalle);
                         }
                         db.SaveChanges();
                     }
@@ -55,6 +56,25 @@ namespace Services
                     return det;
                 }
             }
-        
+            
+        public static List<DetallePedido> GetAllJoinPizza()
+        {
+            using (var db = new PizzeriaDbContext())
+            {
+                List<DetallePedido> det = db.Detalle.Include(d => d.pizza).ToList();
+                
+                return det;
+            }
+        }
+        public static List<DetallePedido> GetAllJoinPedido()
+        {
+            using (var db = new PizzeriaDbContext())
+            {
+                List<DetallePedido> det = db.Detalle.Include(d=>d.pedido).ToList();
+
+                return det;
+            }
+        }
+
     }
 }

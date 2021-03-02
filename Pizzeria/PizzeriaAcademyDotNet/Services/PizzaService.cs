@@ -21,6 +21,11 @@ namespace Services
                     }
                     else
                     {
+                        foreach (var i in p.ingredientes)
+                        {
+                            db.Entry(i).State = EntityState.Unchanged;
+                        }
+
                         db.Pizza.Add(p);
                     }
                     db.SaveChanges();

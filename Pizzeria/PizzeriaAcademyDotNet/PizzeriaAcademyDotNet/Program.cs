@@ -74,7 +74,7 @@ namespace PizzeriaAcademyDotNet
 
                         Console.WriteLine("Escriba el precio de la variedad de pizza:");
                         var precio = Int32.Parse(Console.ReadLine());
-                        var nuevaPizza = new Pizza { nombre = variedad, precio = precio };//, ingredientes= ingredientes};
+                        var nuevaPizza = new Pizza { nombre = variedad, precio = precio , ingredientes= ingredientes};
                         PizzaService.Save(nuevaPizza);
                         break;
 
@@ -146,7 +146,7 @@ namespace PizzeriaAcademyDotNet
 
                             Console.WriteLine("Ingrese la cantidad de pizzas de la variedad " + pizza.nombre + " de " + tam.ToString() +" porciones, del tipo " + tipoPizza + " a ordenar: ");
                             var cantidad = Int32.Parse(Console.ReadLine());
-                            DetallePedido det = new DetallePedido {  cantidad = cantidad, subtotal = subtot, tamaño = tam, tipo = tipoPizza };
+                            DetallePedido det = new DetallePedido {pedido=p,pizza=pizza,  cantidad = cantidad, subtotal = subtot, tamaño = tam, tipo = tipoPizza };
                             DetallePedidoService.Save(det);
                             totalAPedir = totalAPedir - cantidad;
                         }
@@ -174,6 +174,7 @@ namespace PizzeriaAcademyDotNet
                         var FP = Console.ReadLine();
                         var pedido = Listapedidos.Where(p => p.id == final).FirstOrDefault();
                         Factura factura = new Factura { pedido = pedido, formaPago = FP };
+                        FacturaService.Save(factura);
                         break;
                     case 7:
                         var ListapedidosEnPrep = listarPedidosEnPreparacion();
@@ -216,7 +217,7 @@ namespace PizzeriaAcademyDotNet
                     case 9:
 
                         Console.WriteLine("Tipos de pizza mas pedidas del ultimo mes");
-                        List<DetallePedido> detallepedidosParaTipo = DetallePedidoService.GetAll();
+                        List<DetallePedido> detallepedidosParaTipo = DetallePedidoService.GetAllJoinPizza();
                         Dictionary<string, int> tiposMasPedidas = new Dictionary<string, int>();
                         foreach (var detalle in detallepedidosParaTipo)
                         {
@@ -236,7 +237,7 @@ namespace PizzeriaAcademyDotNet
                         break;
                     case 10:
                         Console.WriteLine("Ingresos del ultimo mes");
-                        List<DetallePedido> detalles = DetallePedidoService.GetAll();
+                        List<DetallePedido> detalles = DetallePedidoService.GetAllJoinPedido();
                         foreach (var d in detalles)
                         {
                             Console.WriteLine("Fecha: " + d.pedido.fechaEmision.ToString());
