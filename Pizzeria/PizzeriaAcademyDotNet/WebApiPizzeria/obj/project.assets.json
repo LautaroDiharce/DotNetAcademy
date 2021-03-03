@@ -5876,6 +5876,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Persistance.Database >= 1.0.0",
       "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.0.7"
     ]
@@ -5911,6 +5912,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\lauta\\OneDrive\\Documents\\GitHub\\DotNetAcademy\\Pizzeria\\PizzeriaAcademyDotNet\\Persistance.Database\\Persistance.Database.csproj": {
+              "projectPath": "C:\\Users\\lauta\\OneDrive\\Documents\\GitHub\\DotNetAcademy\\Pizzeria\\PizzeriaAcademyDotNet\\Persistance.Database\\Persistance.Database.csproj"
+            },
             "C:\\Users\\lauta\\OneDrive\\Documents\\GitHub\\DotNetAcademy\\Pizzeria\\PizzeriaAcademyDotNet\\Services\\Services.csproj": {
               "projectPath": "C:\\Users\\lauta\\OneDrive\\Documents\\GitHub\\DotNetAcademy\\Pizzeria\\PizzeriaAcademyDotNet\\Services\\Services.csproj"
             }

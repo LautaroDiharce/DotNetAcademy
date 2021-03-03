@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Persistance.Database\Persistance.Database.csproj" />
     <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 
